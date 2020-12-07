@@ -20,6 +20,16 @@
     "uilayout": "terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
+   {
+        "title": "Upload File Assets",
+        "description": "Automatically upload file assets to the environment",
+        "id": "upload-assets"
+      },
+      {
+        "title": "Displaying Images",
+        "description": "Display images as part of the scenario",
+        "id": "displaying-images"
+      },
   "backend": {
     "imageid": "bash"
   }
